@@ -5,7 +5,7 @@ Ever been asked to export an audio file of your ATEM ISO recording? Then this no
 ## What you'll need
 You must have a copy of **FFMPEG** installed somewhere on a computer that has IP connectivity to your ATEM MINI ISO or ATEM MINI EXTREME ISO switcher. Installing FFMPEG is not part of this guide - your favourite search engine will provide appropriate installation details - be your computer choice range from a Raspberry Pi through to any Windows machine, Apple Mac, any Linux server or laptop.
 
-Your computer and ATEM switcher must be on the same network. If you can successfully control your ATEM using BMD's ATEM control software, then you'll all set. For ultimate performance, at least with an ATEM EXTREME ISO, use a gigabit network switch to connect the two devices.
+Your computer and ATEM switcher must be on the same network. If you can successfully control your ATEM using BMD's ATEM control software, then you're all set. For ultimate performance, at least with an ATEM EXTREME ISO, use a gigabit network switch to connect the two devices.
 
 ## Instructions
 ### On your computer, run up a 'shell'.
